@@ -26,7 +26,7 @@ const Home = () => {
         <>
             <Meta />
             <Head>
-                <title>Ashok Seeds and Plants</title>
+                <title>Chandrabhan ka dera</title>
                 <meta name="description" content="" />
             </Head>
 
