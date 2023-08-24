@@ -1,5 +1,5 @@
 
-import '../styles/globals.css'
+import '.public/styles/globals.css'
 
 import { appWithTranslation } from 'next-i18next';
 
